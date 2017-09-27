@@ -1,0 +1,4 @@
+name: GameServerStatusSync
+depend: [GameEvent]
+main: com.mcndsj.GameServerStatusSync.Core
+version: 0.0.1-SNAPSHOT
